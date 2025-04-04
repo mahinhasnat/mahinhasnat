@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/Wp9FR3hV/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.postimg.cc/JzF5Rx01/54b6c068097599-5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahin Hasnat</h1>
 <h3 align="center">A passionate Programmer & Developer And IT Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/Wp9FR3hV/giphy.gif">
